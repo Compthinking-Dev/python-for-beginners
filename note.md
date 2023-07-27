@@ -2,10 +2,8 @@
 |-------|------|--------|
 | [Programming with Python (1/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-1-of-44-programming-with-python) | 課程簡介及編排、目標群眾 | 每部影片各自獨立，可以跳著看或只看有興趣的部份 |
 | [Introducing Python (2/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-2-of-44-introducing-python) | Python 是什麼以及它能作什麼 |   |
-| [Getting Started (3/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-3-of-44-getting-started) | 安裝 Python 3, VS Code 及 Python Extension |   |
-| [Configuring Visual Studio Code (4/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-4-of-44-configuring-visual-studio-code) | 演示如何在 VS Code 中安裝 Python Extension | 影片中的 VS Code 圖示列表在右邊，但在目前版本的 VS Code 是在左邊 |
-| [Using Print (5/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-5-of-44-using-print) | `print()` 與 `input()` 的基本用法 |  [02-print.md](02-print.md) |
-| Demo: Hello World (6/44) |      |        |
+| [Getting Started (3/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-3-of-44-getting-started)<br>[Configuring Visual Studio Code (4/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-4-of-44-configuring-visual-studio-code) | 安裝 Python 3, VS Code 及 Python Extension | Demo 影片中的 VS Code 圖示列表在右邊，但在目前版本的 VS Code 是在左邊 |
+| [Using Print (5/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-5-of-44-using-print)<br>[Demo: Hello World (6/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-6-of-44-demo-hello-world)| `print()` 與 `input()` 的基本用法；如何使用 `print()` 幫助 debug | [02-print.md](02-print.md) |
 | Comments (7/44) |      |        |
 | Demo: Comments (8/44) |      |        |
 | String Concepts (9/44) |      |        |
