@@ -1,4 +1,4 @@
-[原教材及範例程式碼網址](https://github.com/microsoft/c9-python-getting-started/tree/master/python-for-beginners/02%20-%20Print)
+([原教材及範例程式碼網址](https://github.com/microsoft/c9-python-getting-started/tree/master/python-for-beginners/02%20-%20Print))
 
 ## print
 
