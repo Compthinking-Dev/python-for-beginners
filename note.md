@@ -4,7 +4,7 @@
 | [Introducing Python (2/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-2-of-44-introducing-python) | Python 是什麼以及它能作什麼 |   |
 | [Getting Started (3/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-3-of-44-getting-started) | 安裝 Python 3, VS Code 及 Python Extension |   |
 | [Configuring Visual Studio Code (4/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-4-of-44-configuring-visual-studio-code) | 演示如何在 VS Code 中安裝 Python Extension | 影片中的 VS Code 圖示列表在右邊，但在目前版本的 VS Code 是在左邊 |
-| [Using Print (5/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-5-of-44-using-print) | `print()` 與 `input()` 的基本用法 |        |
+| [Using Print (5/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-5-of-44-using-print) | `print()` 與 `input()` 的基本用法 |  [02-print.md](02-print.md) |
 | Demo: Hello World (6/44) |      |        |
 | Comments (7/44) |      |        |
 | Demo: Comments (8/44) |      |        |
