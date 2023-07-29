@@ -1,7 +1,7 @@
 (原教材及範例程式碼網址：[08-handling-conditions](https://github.com/microsoft/c9-python-getting-started/tree/master/python-for-beginners/08%20-%20Handling%20conditions)、[09-handling-multiple-conditions](https://github.com/microsoft/c9-python-getting-started/tree/master/python-for-beginners/09%20-%20Handling%20multiple%20conditions))
 
 
-## 條件處理 (if 判斷式)
+## 條件判斷 (if 判斷式)
 
 [Python 官方文件關於 if 判斷式的說明](https://docs.python.org/3/reference/compound_stmts.html#the-if-statement) (左上角可切換語言為中文)
 
