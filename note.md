@@ -9,8 +9,7 @@
 | [Formatting Strings (11/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-11-of-44-formatting-strings)<br>[Demo: Formatting Strings (12/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-12-of-44-demo-formatting-strings) | 如何在字串中穿插變數 (f-string 字串表示法) | 雖然影片中提到了 string.format() 等其它方法，但 Python 3.6 以後的主流是 f-string 表示法 |
 | [Numeric Data Types (13/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-13-of-44-numeric-data-types)<br>[Demo: Numbers (14/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-14-of-44-demo-numbers )| 數字計算；數值與字串變數的相互轉換 | [05-numeric-variables.md](05-numeric-variables.md)|
 | [Date data types (15/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-15-of-44-date-data-types)<br>[Demo: Dates (16/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-16-of-44-demo-dates) | 使用 datetime 函式庫計算日期；將字串轉換成 datetime 物件 | [06-dates.md](06-dates.md) |
-| Error Handling (17/44) |      |        |
-| Demo: Error Handling (18/44) |      |        |
+| [Error Handling (17/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-17-of-44-error-handling)<br>[Demo: Error Handling (18/44)](https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-18-of-44-demo-error-handling) | 使用 try-except-finally 作例外處理 | [07-error-handling.md](07-error-handling.md)|
 | Conditional Logic (19/44) |      |        |
 | Demo: Conditional Logic (20/44) |      |        |
 | Handling Multiple Conditions (21/44) |      |        |
