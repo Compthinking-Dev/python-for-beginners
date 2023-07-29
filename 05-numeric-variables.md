@@ -1,4 +1,4 @@
-([原教材及範例程式碼網址](https://github.com/microsoft/c9-python-getting-started/tree/master/python-for-beginners/05%20-%20Numeric%20variables)]
+([原教材及範例程式碼網址](https://github.com/microsoft/c9-python-getting-started/tree/master/python-for-beginners/05%20-%20Numeric%20variables))
 
 ## 數值
 
