@@ -11,7 +11,7 @@
 * API Key (API 金鑰)：用於授予您調用該 API 的權限
 * 服務的 URL 位址 (又稱端點 Endpoint)
 * 要調用的方法名稱，通常是網址內容的一部分
-* 函數參數，通常是網址內容的一部分，或是所送出請求的 Body 部份
+* 函數參數，通常是網址內容的一部分，或是 POST 請求的 Body 部份
 * HTTP Headers (標頭/表頭)
 
 ## 範例
@@ -31,7 +31,7 @@ curl.exe -H "Ocp-Apim-Subscription-Key: <subscriptionKey>" -H "Content-Type: app
 * 調用的方法名稱: /imageanalysis:analyze
 * 函數參數:
   * `features=caption,read&model-version=latest&language=en&api-version=2023-02-01-preview` (要使用的 features, 語言, 模型與 API 版本等)
-  * `{'url':'https://learn.microsoft.com/azure/ai-services/computer-vision/media/quickstarts/presentation.png'}` (要分析的圖片網址)
+  * `{'url':'https://learn.microsoft.com/azure/ai-services/computer-vision/media/quickstarts/presentation.png'}` (POST 請求的 body: 要分析的圖片網址)
 
 知道如何送出請求，我們就可以透過 Python 的 requests 函式庫發送請求並取得結果。原教學範例會需要您建立 Azure 帳號並創建一個 Computer Vision 資源，及取得該資源的 API Key。我們已經預先建立好了一個, 只要到[課程網頁](./)複製 SUBSCRIPTION_KEY 的值，並套入以下範例程式碼,就可以直接執行:
 
