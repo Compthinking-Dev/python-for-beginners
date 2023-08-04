@@ -1,6 +1,6 @@
 ([原教材網頁](https://github.com/microsoft/c9-python-getting-started/tree/master/python-for-beginners/16%20-%20Calling%20APIs)的範例程式碼及 API 版本已經過時，以下為更新過後的內容)
 
-## 呼叫（調用） APIs
+## 呼叫 (調用) APIs
 
 您可以調用托管在 Web 伺服器上的其他程式所提供的函數。Microsoft Azure Cognitive Services 包含許多可供您從代碼中調用的 API，以增強您的應用程式和網站的智能功能。
 
@@ -30,7 +30,7 @@ curl.exe -H "Ocp-Apim-Subscription-Key: <subscriptionKey>" -H "Content-Type: app
 * 服務的 URL 位址: `https://<endpoint>.cognitiveservices.azure.com`
 * 調用的方法名稱: /imageanalysis:analyze
 * 函數參數:
-  * `features=caption,read&model-version=latest&language=en&api-version=2023-02-01-preview`
+  * `features=caption,read&model-version=latest&language=en&api-version=2023-02-01-preview` (要使用的 features, 語言, 模型與 API 版本等)
   * `{'url':'https://learn.microsoft.com/azure/ai-services/computer-vision/media/quickstarts/presentation.png'}` (要分析的圖片網址)
 
 知道如何送出請求，我們就可以透過 Python 的 requests 函式庫發送請求並取得結果。原教學範例會需要您建立 Azure 帳號並創建一個 Computer Vision 資源，及取得該資源的 API Key。我們已經預先建立好了一個, 只要到[課程網頁](./)複製 SUBSCRIPTION_KEY 的值，並套入以下範例程式碼,就可以直接執行:
@@ -89,4 +89,4 @@ print(results)
 }
 ```
 
-此 API 的詳細參數說明可參考 [API](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/call-analyze-image-40?tabs=rest&pivots=programming-language-rest-api) 文件
+此 API 的詳細參數說明可參考 [API 文件](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/call-analyze-image-40?tabs=rest&pivots=programming-language-rest-api)
