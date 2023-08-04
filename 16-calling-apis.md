@@ -37,6 +37,7 @@ curl.exe -H "Ocp-Apim-Subscription-Key: <subscriptionKey>" -H "Content-Type: app
 
 ```Python
 import requests
+import json
 
 SUBSCRIPTION_KEY = "YOUR_SUBSCRIPTION_KEY"
 
@@ -57,10 +58,10 @@ headers = {
 
 response = requests.post(address, headers=headers, json=image_data)
 results = response.json()
-print(results)
+print(json.dumps(results))
 ```
 
-執行後會看到以下結果：
+將執行結果複製貼上到網路上的 [JSON formatter](https://jsonformatter.org/)，會看到以下結果：
 
 ```JavaScript
 {
