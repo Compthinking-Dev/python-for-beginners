@@ -33,7 +33,7 @@ curl.exe -H "Ocp-Apim-Subscription-Key: <subscriptionKey>" -H "Content-Type: app
   * `features=caption,read&model-version=latest&language=en&api-version=2023-02-01-preview` (要使用的 features, 語言, 模型與 API 版本等)
   * `{'url':'https://learn.microsoft.com/azure/ai-services/computer-vision/media/quickstarts/presentation.png'}` (POST 請求的 body: 要分析的圖片網址)
 
-知道如何送出請求，我們就可以透過 Python 的 requests 函式庫發送請求並取得結果。原教學範例會需要您建立 Azure 帳號並創建一個 Computer Vision 資源，及取得該資源的 API Key。我們已經預先建立好了一個, 只要到[課程網頁](./)複製 SUBSCRIPTION_KEY 的值，並套入以下範例程式碼,就可以直接執行:
+知道如何送出請求，我們就可以透過 Python 的 requests 函式庫發送請求並取得結果。原教學範例會需要您建立 Azure 帳號並創建一個 Computer Vision 資源，及取得該資源的 API Key。我們已經預先建立好了一個, 只要到[課程網頁](https://compthinking.dev/courses/python-for-beginners)複製 SUBSCRIPTION_KEY 的值，並套入以下範例程式碼,就可以直接執行:
 
 ```Python
 import requests
