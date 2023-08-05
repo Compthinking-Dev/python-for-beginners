@@ -18,7 +18,7 @@
 
 以下說明如何呼叫 Azure AI Image Analysis API. 您可以在此[互動網頁](https://portal.vision.cognitive.azure.com/demo/generic-image-tagging)先測試結果，例如，[此圖片](https://github.com/microsoft/c9-python-getting-started/blob/master/python-for-beginners/17%20-%20JSON/TestImages/PolarBear.jpg?raw=true)的分析結果會是 "Polar Bear" 相關的標籤；而[此圖片](https://portal.vision.cognitive.azure.com/dist/assets/ImageTaggingSample1-fd324157.jpg)的分析結果會是 "person", "clothing", "furniture" 等標籤
 
-[Image Analysis 4.0 的快速說明文件](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40?tabs=visual-studio%2Cwindows&pivots=programming-language-rest-api)中，有 REST API 的呼叫與回傳資料範例，其呼叫格式為：
+[Image Analysis 4.0 的快速上手文件](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40?tabs=visual-studio%2Cwindows&pivots=programming-language-rest-api)中，有 REST API 的呼叫與回傳資料範例，其呼叫格式為：
 
 ```Bash
 curl.exe -H "Ocp-Apim-Subscription-Key: <subscriptionKey>" -H "Content-Type: application/json" "https://<endpoint>/computervision/imageanalysis:analyze?features=caption,read&model-version=latest&language=en&api-version=2023-02-01-preview" -d "{'url':'https://learn.microsoft.com/azure/ai-services/computer-vision/media/quickstarts/presentation.png'}"
