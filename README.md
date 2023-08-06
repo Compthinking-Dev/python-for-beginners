@@ -8,7 +8,7 @@
 
 ## 教材列表
 
-* 影片：[Microsoft Learn](https://learn.microsoft.com/en-us/shows/intro-to-python-development/) (有中文字幕，網頁最下方也可以更換網站語言)。也可以在 [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) 上觀看
+* 影片：[Microsoft Learn](https://learn.microsoft.com/en-us/shows/intro-to-python-development/) (有中文字幕，網頁最下方也可以切換網站語言)。也可以在 [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) 上觀看
 * [範例程式碼及投影片](https://github.com/microsoft/c9-python-getting-started/tree/master/python-for-beginners)
 * 如果你偏好閱讀文章而非觀看影片的學習方式，可以參考同一份教材的[文字版本](https://learn.microsoft.com/en-us/training/paths/beginner-python/)(最下方可以切換網站語言為中文)
 
