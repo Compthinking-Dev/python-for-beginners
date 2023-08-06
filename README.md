@@ -4,6 +4,8 @@
 
 ## [點此進入課程筆記](NOTE.md)
 
+## [課程討論區](https://github.com/Compthinking-Dev/python-for-beginners/discussions)
+
 ## 教材列表
 
 * 影片：[Microsoft Learn](https://learn.microsoft.com/en-us/shows/intro-to-python-development/) (有中文字幕，網頁最下方也可以更換網站語言)。也可以在 [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) 上觀看
